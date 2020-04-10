@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acb55ef0-68d0-4592-adb0-736d9c2e69ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJNHd4oaz4E2pktN9iwBfbPLRr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.Principal">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio1.HelloWorld" />
+      <module name="testing kotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio2.Main" />
+      <module name="testing kotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio2.Principal" />
+      <module name="testing kotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio1.HelloWorldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="testing kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ejercicio1.HelloWorldKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio2.MianKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="testing kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ejercicio2.MianKotlinKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Kotlin.ejercicio2.MianKotlinKt" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Kotlin.ejercicio1.HelloWorldKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acb55ef0-68d0-4592-adb0-736d9c2e69ab" name="Default Changelist" comment="" />
+      <created>1586449649689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586449649689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1586491987470">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1586491987470" />
+    <state x="424" y="113" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1586491974050">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="424" y="113" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1440.860@0.0.1440.860" timestamp="1586491974050" />
+    <state x="429" y="20" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586490063615">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="429" y="20" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1586490063615" />
+    <state x="499" y="82" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1586491546958">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="499" y="82" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1586491546958" />
+    <state width="1397" height="187" key="GridCell.Tab.0.bottom" timestamp="1586493988900">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="187" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1586493988900" />
+    <state width="1397" height="187" key="GridCell.Tab.0.center" timestamp="1586493988899">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="187" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1586493988899" />
+    <state width="1397" height="187" key="GridCell.Tab.0.left" timestamp="1586493988899">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="187" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1586493988899" />
+    <state width="1397" height="187" key="GridCell.Tab.0.right" timestamp="1586493988900">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="187" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1586493988900" />
+    <state x="221" y="72" key="SettingsEditor" timestamp="1586491320000">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1586491320000" />
+    <state x="421" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1586449661057">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="421" y="253" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1586449661057" />
+  </component>
+</project>
