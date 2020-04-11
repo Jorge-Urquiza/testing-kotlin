@@ -13,6 +13,7 @@ fun main(args: Array<String>) {
     println("Extend Function:${fullname.getFirstName()}")
     // llamando al extend properties
     println("Extend propierties: ${fullname.firstNameOnFullName}")
+    println("Jorge Urquiza".firstNameOnFullName)
 }
 val String.firstNameOnFullName:String get(){
     return this.substring(0,indexOf(" "))
