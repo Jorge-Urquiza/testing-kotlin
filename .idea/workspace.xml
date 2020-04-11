@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acb55ef0-68d0-4592-adb0-736d9c2e69ab" name="Default Changelist" comment="" />
+    <list default="true" id="acb55ef0-68d0-4592-adb0-736d9c2e69ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testing kotlin/ejercicio2/MianKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testing kotlin/ejercicio2/MianKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testing kotlin/ejercicio2/PersonJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testing kotlin/ejercicio2/PersonJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testing kotlin/ejercicio2/PersonKotlin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testing kotlin/ejercicio2/PersonKotlin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testing kotlin/ejercicio2/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testing kotlin/ejercicio2/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio2/MianKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio2/MianKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio2/PersonJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio2/PersonJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio2/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio2/Principal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,12 +20,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aJNHd4oaz4E2pktN9iwBfbPLRr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio1.HelloWorld" />
       <module name="testing kotlin" />
@@ -66,20 +79,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ejercicio1.HelloWorldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="testing kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ejercicio1.HelloWorldKt" />
+      <option name="MAIN_CLASS_NAME" value="ejercicio3.MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ejercicio2.MianKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ejercicio2.MianKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="testing kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -94,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Principal" />
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.ejercicio2.MianKotlinKt" />
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Kotlin.ejercicio1.HelloWorldKt" />
       </list>
     </recent_temporary>
   </component>
@@ -116,10 +129,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="525" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1586491987470">
+    <state x="525" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1586623885701">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="525" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1586491987470" />
+    <state x="525" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1586623885700" />
     <state x="424" y="113" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1586491974050">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -132,22 +145,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="499" y="82" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1586491546958" />
-    <state width="1397" height="187" key="GridCell.Tab.0.bottom" timestamp="1586493988900">
+    <state width="1397" height="187" key="GridCell.Tab.0.bottom" timestamp="1586628643008">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="187" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1586493988900" />
-    <state width="1397" height="187" key="GridCell.Tab.0.center" timestamp="1586493988899">
+    <state width="1397" height="187" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1586628643008" />
+    <state width="1397" height="187" key="GridCell.Tab.0.center" timestamp="1586628643008">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="187" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1586493988899" />
-    <state width="1397" height="187" key="GridCell.Tab.0.left" timestamp="1586493988899">
+    <state width="1397" height="187" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1586628643008" />
+    <state width="1397" height="187" key="GridCell.Tab.0.left" timestamp="1586628643008">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="187" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1586493988899" />
-    <state width="1397" height="187" key="GridCell.Tab.0.right" timestamp="1586493988900">
+    <state width="1397" height="187" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1586628643008" />
+    <state width="1397" height="187" key="GridCell.Tab.0.right" timestamp="1586628643008">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="187" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1586493988900" />
+    <state width="1397" height="187" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1586628643008" />
     <state x="221" y="72" key="SettingsEditor" timestamp="1586491320000">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
