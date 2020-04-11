@@ -1,5 +1,6 @@
 package ejercicio5
 
+//infix function
 import ejercicio2.PersonKotlin
 
 fun PersonKotlin.say(message: String){

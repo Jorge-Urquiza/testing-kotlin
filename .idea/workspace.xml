@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acb55ef0-68d0-4592-adb0-736d9c2e69ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ejercicio4/Extension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio4/Extension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testing kotlin/META-INF/testing kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testing kotlin/META-INF/testing kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio5/infix_func.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio5/infix_func.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -35,20 +37,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Kotlin.Infix_funcKt">
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicio2.Principal" />
-      <module name="testing kotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ejercicio2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.MainCarKt">
     <configuration name="ExtensionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="testing kotlin" />
       <option name="VM_PARAMETERS" />
@@ -70,6 +59,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ejercicio5.Infix_funcKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="testing kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ejercicio6.MainCarKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainCarKt" />
         <item itemvalue="Kotlin.Infix_funcKt" />
         <item itemvalue="Kotlin.ExtensionKt" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.ejercicio2.MianKotlinKt" />
-        <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
   </component>
@@ -141,22 +143,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="499" y="82" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1586491546958" />
-    <state width="1397" height="187" key="GridCell.Tab.0.bottom" timestamp="1586630603420">
+    <state width="1397" height="187" key="GridCell.Tab.0.bottom" timestamp="1586631620114">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="187" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1586630603420" />
-    <state width="1397" height="187" key="GridCell.Tab.0.center" timestamp="1586630603420">
+    <state width="1397" height="187" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1586631620114" />
+    <state width="1397" height="187" key="GridCell.Tab.0.center" timestamp="1586631620114">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="187" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1586630603420" />
-    <state width="1397" height="187" key="GridCell.Tab.0.left" timestamp="1586630603420">
+    <state width="1397" height="187" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1586631620114" />
+    <state width="1397" height="187" key="GridCell.Tab.0.left" timestamp="1586631620114">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="187" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1586630603420" />
-    <state width="1397" height="187" key="GridCell.Tab.0.right" timestamp="1586630603420">
+    <state width="1397" height="187" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1586631620114" />
+    <state width="1397" height="187" key="GridCell.Tab.0.right" timestamp="1586631620114">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="187" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1586630603420" />
+    <state width="1397" height="187" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1586631620114" />
     <state x="221" y="72" key="SettingsEditor" timestamp="1586491320000">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
